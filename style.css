@@ -38,12 +38,11 @@
   margin-top: 15%;
 
 }
-/*
+
 .hero-text-main {
   font-weight: bold;
-  font-size: 4em;
 }
-*/
+
 @media all and (max-width: 2000px){
   .hero-text-main{
     font-size: 8em;
